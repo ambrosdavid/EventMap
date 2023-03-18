@@ -16,7 +16,7 @@
 
 ![Product Name Screen Shot][product-screenshot]
 <div align="center">
-    <a href="#demo">Demo</a> 
+    <a href="#Schema">AWS Infrastructure</a> 
 </div>
 
 
@@ -55,18 +55,13 @@ Respectively for front-end and back-end the following tools have been used:
 
 ## Demo
 
-<div id="demo"></div>
+<div id="Schema"></div>
 
 <div align="center">
-    <h4> Gym web app:</h4>
-    <img src="images/demo.gif" alt="demo"/>
-    <br>
     <h4> Object diagram:</h4>
-    <img src="images/schemaAoggetti.png" style= "width:80%" alt="schemaAoggetti"/>
+    <img src="imgs/AWS_schema.jpg" style= "width:100%" alt=""/>
 <br>
-    <h4> ER diagram:</h4>
-    <img src="images/Relazionale.PNG" style= "width:80%" alt="Relazionale"/>
-
+    
     
 <p>(<a href="#top">back to top</a>)</p>
 </div>
