@@ -31,7 +31,7 @@
 
 
 <div>
-<h1>AWS Infrastructure Demo</h1>
+<h1>AWS Infrastructure</h1>
 <p>This project primarily relies on AWS infrastructure, with other APIs and services also utilized, such as Google Maps API, Google OAuth, MongoDB Atlas Serverless, and Paypal.</p>
 <p>The purpose of this repository is to showcase a demo of the project's complete architecture and functionality. The entire project was built from scratch by me.</p>
 <p>The code for this project is stored in private repositories. For more information on accessing it, please contact me directly.</p>
