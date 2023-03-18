@@ -38,9 +38,6 @@
 
 </div>
 
-Respectively for front-end and back-end the following tools have been used:
-* __Front-end:__ The Angular 14 framework was used.
-* __Infrastructure:__ AWS CDK V2 IaaS was used, in NodeJs.
 
 ### Built With
 
