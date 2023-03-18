@@ -6,7 +6,8 @@
 <div align="center">
     <img src="imgs/image.png" alt="Logo" width="100px" object-fit="cover">
 
-  <h1 align="center">EventMap</h3>
+  <h1 align="center">EventMap</h1>
+  <h3 align="center">www.eventmap.it</h3>
 </div>
 
 
@@ -17,6 +18,10 @@
 ![Product Name Screen Shot][product-screenshot]
 <div align="center">
     <a href="#Schema">AWS Infrastructure</a> 
+</div>
+
+<div align="center">
+    <a href="www.eventmap.it">The Website</a> 
 </div>
 
 
