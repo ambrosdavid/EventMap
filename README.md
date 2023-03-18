@@ -26,6 +26,7 @@
 <p>The platform only offer one way to authenticate: Google SignIn. This means that you must have a Google account to create events and access the chat system, and to perform additional actions.</p>
 <p>Events expire by default after 24 hours, after which they will be removed from the map. We offer premium plans that allow users to upgrade their accounts, post more events, or make them last longer. These plans can be found in your private area and will remain deactivated until the website reaches stability.</p>
 <p>Unfortunately, Google Maps API can become expensive if the website has many users. As a result, I may decide to shut down the map view each month once it reaches 28,000 map loads per month. Unfortunately, there are not many cheap solutions for displaying maps or tile providers.</p>
+<p>As the founder of this startup, my primary goal in creating this events website was to push my skills to their limit and learn as much as possible throughout the development process. By undertaking the challenge of building this project from the ground up, I gained invaluable experience in every aspect of software engineering - from design to development, deployment, testing, debugging and beyond. Through this project, I gained a comprehensive understanding of the full spectrum of development processes and the intricacies of creating a successful online platform. I am now more confident in my abilities and extremely satisfied with the outcome of my efforts.</p>
 </div>
 
 
@@ -34,7 +35,7 @@
 <p>This project primarily relies on AWS infrastructure, with other APIs and services also utilized, such as Google Maps API, Google OAuth, MongoDB Atlas Serverless, and Paypal.</p>
 <p>The purpose of this repository is to showcase a demo of the project's complete architecture and functionality. The entire project was built from scratch by me.</p>
 <p>The code for this project is stored in private repositories. For more information on accessing it, please contact me directly.</p>
-<p>As the founder of this startup, my primary goal in creating this events website was to push my skills to their limit and learn as much as possible throughout the development process. By undertaking the challenge of building this project from the ground up, I gained invaluable experience in every aspect of software engineering - from design to development, deployment, testing, debugging and beyond. Through this project, I gained a comprehensive understanding of the full spectrum of development processes and the intricacies of creating a successful online platform. I have made it to the end of this long journey and </p>
+
 </div>
 
 Respectively for front-end and back-end the following tools have been used:
@@ -45,12 +46,11 @@ Respectively for front-end and back-end the following tools have been used:
 
 
 * [Angular](https://angular.io/)
-* [AWS CDK](https://docs.aws.amazon.com/cdk/api/v2/)
+* [AWS CDK V2 IaaS in NodeJs](https://docs.aws.amazon.com/cdk/api/v2/)
 * [MongoDB Serverless](https://www.mongodb.com/use-cases/serverless)
 * [Paypal Developers](https://developer.paypal.com/home)
 * [Google Maps API](https://developers.google.com/maps)
 * [Iubenda](https://www.iubenda.com/en/)
-
 
 
 ## Demo
