@@ -20,23 +20,26 @@
 </div>
 
 
-EventMap is my first startup project.The purpose of this platform is to allow users to create events or to sponsor existing public events, and to have a general map view of all the events in the area. 
-EventMap offers a built-in chat system that allows users to comunicate and to send messages related to each event.
-I have always hated websites that would make you go trough many registration steps in order to create an account, so in EventMap there is only one way to authenticate for simplicity and for an easy User Experience, that is Google SignIn, so you must have a google account in order to create Events and access to the chat system.
-Events expire by default after 24h, so after that time the event will be removed from the map.
-The website has some premium plans for who wants to upgrade their account and be able to post more events, or make them last longer, you can find that in your private area. Those premium plans will remain deactivated until the website reaches a stability. 
+<div>
+<h1>EventMap</h1>
+<p>EventMap is a platform that allows users to create events or sponsor existing public events, providing a general map view of all events in the area. It also offers a built-in chat system that enables users to communicate and send messages related to each event.</p>
+<p>The platform only offer one way to authenticate: Google SignIn. This means that you must have a Google account to create events and access the chat system, and to perform additional actions.</p>
+<p>Events expire by default after 24 hours, after which they will be removed from the map. We offer premium plans that allow users to upgrade their accounts, post more events, or make them last longer. These plans can be found in your private area and will remain deactivated until the website reaches stability.</p>
+<p>Unfortunately, Google Maps API can become expensive if the website has many users. As a result, I may decide to shut down the map view each month once it reaches 28,000 map loads per month. Unfortunately, there are not many cheap solutions for displaying maps or tile providers.</p>
+</div>
 
-Unfortunatelly GoogleMaps API gets expensive if the website has many users so I might decide to shut down the map view each month once it reaches 28000 maploads per month. Unfortunatelly there are not many cheap solutions to display a map or tile-providers.
+
+<div>
+<h1>AWS Infrastructure Demo</h1>
+<p>This project primarily relies on AWS infrastructure, with other APIs and services also utilized, such as Google Maps API, Google OAuth, MongoDB Atlas Serverless, and Paypal.</p>
+<p>The purpose of this repository is to showcase a demo of the project's complete architecture and functionality. The entire project was built from scratch by me.</p>
+<p>The code for this project is stored in private repositories. For more information on accessing it, please contact me directly.</p>
+<p>As the founder of this startup, my primary goal in creating this events website was to push my skills to their limit and learn as much as possible throughout the development process. By undertaking the challenge of building this project from the ground up, I gained invaluable experience in every aspect of software engineering - from design to development, deployment, testing, debugging and beyond. Through this project, I gained a comprehensive understanding of the full spectrum of development processes and the intricacies of creating a successful online platform. I have made it to the end of this long journey and </p>
+</div>
 
 Respectively for front-end and back-end the following tools have been used:
 * __Front-end:__ The Angular 14 framework was used.
 * __Infrastructure:__ AWS CDK V2 IaaS was used, in NodeJs.
-
-
-This project mainly relies on an AWS infrastructure, other API and services are used, like Google Maps API, Google OAuth, MongoDB Atlas serverless and Paypal.
-The purpose of this repository is to show a demo about how it works and the complete architecture of the project. 
-The entire project was built from 0 by me.
-The code is stored in private repositories, for more information please contact me.
 
 ### Built With
 
