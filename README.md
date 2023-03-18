@@ -20,11 +20,6 @@
     <a href="#Schema">AWS Infrastructure</a> 
 </div>
 
-<div align="center">
-    <a href="www.eventmap.it">The Website</a> 
-</div>
-
-
 <div>
 <h1>EventMap</h1>
 <p>EventMap is a platform that allows users to create events or sponsor existing public events, providing a general map view of all events in the area. It also offers a built-in chat system that enables users to communicate and send messages related to each event.</p>
