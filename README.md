@@ -70,10 +70,13 @@
     <h4> Once you click on an event you will see:</h4>
     <img src="imgs/example3.PNG" style= "width:100%" alt=""/>
     <br>
-    <h4> All the users that write a message will be displayed as follows (yes I used 3 google accounts to make this demo):</h4>
+    <br>
+    <p>If you are the host of the event, you will be displayed a list of chats (the users that contacted you). If you are not the host of the event you will be directly displayed the chat of the clicked event in order to comunicate with the host. You can see it as a one to many relationship (one event, many chats, hosts can see all the chats related to their events, and a normal user will be able to see only the chat between him/her and the host)</p>
+    <p> In the following picture, since I am the host of the event I can see all the people that started a conversation with me</p>
+    <h4> All the users that write a message to your event will be displayed as follows (yes I used 3 google accounts to make this demo):</h4>
     <img src="imgs/example4.PNG" style= "width:100%" alt=""/>
     <br>
-    <h4> Once you select one of the chat that you want to open, you can comunicate with the users:</h4>
+    <h4> Once you select one of the chat that you want to open, you can comunicate with the user:</h4>
     <img src="imgs/example5.PNG" style= "width:100%" alt=""/>
 <br>
     
