@@ -62,7 +62,7 @@
     <img src="imgs/AWS_schema.jpg" style= "width:100%" alt=""/>
     <br>
     <h4> Example 1:</h4>
-    <img src="imgs/example.png" style= "width:100%" alt=""/>
+    <img src="imgs/example.PNG" style= "width:100%" alt=""/>
 <br>
     
     
