@@ -61,8 +61,14 @@
     <h4> AWS Infrastructure schema:</h4>
     <img src="imgs/AWS_schema.jpg" style= "width:100%" alt=""/>
     <br>
-    <h4> Example 1:</h4>
+    <h4> The map view:</h4>
     <img src="imgs/example.PNG" style= "width:100%" alt=""/>
+    <br>
+    <h4> The event creation form:</h4>
+    <img src="imgs/example2.PNG" style= "width:100%" alt=""/>
+    <br>
+    <h4> Once you click on an event you will see:</h4>
+    <img src="imgs/example3.PNG" style= "width:100%" alt=""/>
 <br>
     
     
