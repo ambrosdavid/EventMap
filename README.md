@@ -76,7 +76,8 @@
     <h4> All the users that write a message to your event will be displayed as follows (yes I used 3 google accounts to make this demo):</h4>
     <img src="imgs/example4.PNG" style= "width:100%" alt=""/>
     <br>
-    <h4> Once you select one of the chat that you want to open, you can comunicate with the user:</h4>
+    <p> Note that the chat system uses backend appsync pipeline resolvers to check who is authorized to access a certain chat. So no one can access and view/send messages to a chat that doesn't belong to him. Also, once a chat is oppened, an appsync subscription is started in order to send and receive messages in real time without the need to refresh. Also in this case, there is a resolver that checks if you are authorized to create a subscription to the chat</p>
+    <h4> Once you select one of the chats that you want to open, you can comunicate with the user:</h4>
     <img src="imgs/example5.PNG" style= "width:100%" alt=""/>
 <br>
     
