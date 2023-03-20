@@ -69,6 +69,12 @@
     <br>
     <h4> Once you click on an event you will see:</h4>
     <img src="imgs/example3.PNG" style= "width:100%" alt=""/>
+    <br>
+    <h4> All the users that write a message will be displayed as follows (yes I used 3 google accounts to make this demo):</h4>
+    <img src="imgs/example4.PNG" style= "width:100%" alt=""/>
+    <br>
+    <h4> Once you select one of the chat that you want to open, you can comunicate with the users:</h4>
+    <img src="imgs/example5.PNG" style= "width:100%" alt=""/>
 <br>
     
     
