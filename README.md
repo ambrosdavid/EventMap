@@ -58,8 +58,11 @@
 <div id="Schema"></div>
 
 <div align="center">
-    <h4> Object diagram:</h4>
+    <h4> AWS Infrastructure schema:</h4>
     <img src="imgs/AWS_schema.jpg" style= "width:100%" alt=""/>
+    <br>
+    <h4> Example 1:</h4>
+    <img src="imgs/example.png" style= "width:100%" alt=""/>
 <br>
     
     
