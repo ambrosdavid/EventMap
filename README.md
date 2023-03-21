@@ -26,7 +26,7 @@ The same goes for this repository and documentation.
 
 <div>
 <h1>EventMap</h1>
-<p>EventMap is a platform that allows users to create events or sponsor existing public events, providing a general map view of all events in the area. It also offers a built-in chat system that enables users to communicate and send messages related to each event.</p>
+<p>EventMap is a platform that allows users to create events or sponsor existing public events, providing a general map view of all the events in the area. It also offers a built-in chat system that enables users to communicate and send messages related to each event.</p>
 <p>Events expire by default after 24 hours, after which they will be removed from the map. We offer premium plans that allow users to upgrade their accounts, post more events, or make them last longer. These plans can be found in your private area and will remain deactivated until the website reaches stability.</p>
 <p>Unfortunately, Google Maps API can become expensive if the website has many users. As a result, I may decide to shut down the map view each month once it reaches 28,000 map loads per month. Unfortunately, there are not many cheap solutions for displaying maps or tile providers.</p>
 <p>The platform only offers one way to authenticate: Google SignIn. This means that you must have a Google account to create events and access the chat system, and to perform additional actions.</p>
