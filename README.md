@@ -61,6 +61,9 @@ The same goes for this repository and documentation.
 <div align="center">
     <h4> AWS Infrastructure schema:</h4>
     <img src="imgs/AWS_schema.jpg" style= "width:100%" alt=""/>
+    <p>This is a little schema about the overall backend infrastructure. There are many AWS services that are being used but not included in this picture, such as AWS secrets manager, cloudfront distributions, route53 domains, VPCs etc.</p>
+    <p>The Angular frontend Appsync APIs are generated using Amplify, that is also used for the CD process.</p>
+    <p>The authentication is made trough IAM federated Identities, users can perform mutation actions only if they are signed-in, appart from some whitelisted mutations, since GDPR wants me to save to DB every user constent of cookies, even for unauthenticated users.</p>
     <br>
     <h4> The map view:</h4>
     <img src="imgs/example.PNG" style= "width:100%" alt=""/>
