@@ -9,7 +9,8 @@
   <h1 align="center">EventMap</h1>
   <h3 align="center">www.eventmap.it</h3>
   <h4>
-(03/2023) Please note that the project is still in the works, currently in its final testing stage, so it is publicly visible but nobody is allowed to create an account and perform mutation actions.
+(03/2023) Please note that the project is still in the works, currently in its final dev and testing stage, so it is publicly visible but nobody is allowed to create an account and perform mutation actions.
+The same goes for this repository and documentation.
 </h4>
 </div>
 
