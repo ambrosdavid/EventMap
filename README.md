@@ -63,7 +63,8 @@ The same goes for this repository and documentation.
     <img src="imgs/AWS_schema.jpg" style= "width:100%" alt=""/>
     <p>This is a little schema about the overall backend infrastructure. There are many AWS services that are being used but not included in this picture, such as AWS secrets manager, cloudfront distributions, route53 domains, VPCs etc.</p>
     <p>The Angular frontend Appsync APIs are generated using Amplify, that is also used for the CD process.</p>
-    <p>The authentication is made trough IAM federated Identities, users can perform mutation actions only if they are signed-in, appart from some whitelisted mutations, since GDPR wants me to save to DB every user constent of cookies, even for unauthenticated users.</p>
+    <p>The authentication is made trough cognito federated Identities, users can perform mutation actions only if they are signed-in, appart from some whitelisted mutations, since GDPR wants me to save to DB every user constent of cookies, even for unauthenticated users.</p>
+    <p>Unfortunatelly a big problem of cognito is that it doesn't redirect you to the account selection screen if you are currently logged into google with only one account, even if you have multiple accounts that are currently on an expired session status, you will not be able to choose which one to use, unless you first sign in into at least 2 google accounts</p>
     <br>
     <h4> The map view:</h4>
     <img src="imgs/example.PNG" style= "width:100%" alt=""/>
