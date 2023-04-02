@@ -4,7 +4,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-    <img src="imgs/image.png" alt="Logo" width="100px" object-fit="cover">
+    <img src="imgs/Senza titolo-1.png" alt="Logo" width="100px" object-fit="cover">
 
   <h1 align="center">EventMap</h1>
   <h3 align="center">www.eventmap.it</h3>
