@@ -65,6 +65,8 @@ The same goes for this repository and documentation.
     <p>The Angular frontend Appsync APIs are generated using Amplify, that is also used for the CD process.</p>
     <p>The authentication is made trough cognito federated Identities, users can perform mutation actions only if they are signed-in, appart from some whitelisted mutations, since GDPR wants me to save to DB every user consent of the cookies, even for unauthenticated users.</p>
     <p>Unfortunatelly a big problem of cognito is that it doesn't redirect you to the account selection screen if you are currently logged into google with only one account, even if you have multiple accounts that are currently on an expired session status, you will not be able to choose which one to use, unless you first sign in into at least 2 google accounts. This is a known cognito issue and there is still no workaround or fix: <a href="https://github.com/aws-amplify/amplify-js/issues/3933">https://github.com/aws-amplify/amplify-js/issues/3933</a> and <a href="https://github.com/aws-amplify/amplify-js/issues/4044">https://github.com/aws-amplify/amplify-js/issues/4044</a> </p>
+    <h4> Chat system:</h4>
+    <img src="imgs/Chat_system.PNG" style= "width:100%" alt=""/>
     <br>
     <h4> The map view:</h4>
     <img src="imgs/example.PNG" style= "width:100%" alt=""/>
@@ -91,7 +93,7 @@ The same goes for this repository and documentation.
     <p> Note that the chat system uses backend appsync pipeline resolvers to check who is authorized to access a certain chat.<br> So no one can access and view/send messages to a chat that doesn't belong to him.<br><br> Also, once a chat is oppened, an appsync subscription is started in order to send and receive messages in real time without the need to manually refresh. Also in this case, there is a resolver that checks if you are authorized to create a subscription to the chat</p>
     <h4> Once you select one of the chats that you want to open, you can comunicate with the user who contacted you:</h4>
     <img src="imgs/example5.PNG" style= "width:100%" alt=""/>
-    <img src="imgs/Chat_system.PNG" style= "width:100%" alt=""/>
+    
 
 <br>
 <h3>Please feel free to discover the website by navigating to www.eventmap.it
