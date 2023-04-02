@@ -91,6 +91,8 @@ The same goes for this repository and documentation.
     <p> Note that the chat system uses backend appsync pipeline resolvers to check who is authorized to access a certain chat.<br> So no one can access and view/send messages to a chat that doesn't belong to him.<br><br> Also, once a chat is oppened, an appsync subscription is started in order to send and receive messages in real time without the need to manually refresh. Also in this case, there is a resolver that checks if you are authorized to create a subscription to the chat</p>
     <h4> Once you select one of the chats that you want to open, you can comunicate with the user who contacted you:</h4>
     <img src="imgs/example5.PNG" style= "width:100%" alt=""/>
+    <img src="imgs/Chat_system.PNG" style= "width:100%" alt=""/>
+
 <br>
 <h3>Please feel free to discover the website by navigating to www.eventmap.it
 <br><br>
