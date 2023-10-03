@@ -67,7 +67,7 @@
     <img src="imgs/Chat_system.PNG" style= "width:100%" alt=""/>
     <br>
     <h4> The map view:</h4>
-    <img src="imgs/example.PNG" style= "width:100%" alt=""/>
+    <img src="imgs/image.png" style= "width:100%" alt=""/>
     <p>The event fetching works via a MongoDB radius query, the query is made trough an appsync call to a lambda resolver, that connects to a MongoDB Serverless instance.<br> Before choosing MongoDB I have tried every other option that AWS would offer for geo data management. I first tried to use DDB but the only existing geo-data library is outdated, I have also tried using DocumentDB but that was very expensive, after doing many researches I ended up using MongoDB Serverless that offers a perfect solution since you can create Indexes on Lat-Long data, and query it using radius queries or squared queries.</p>
     <br>
     <h4> The event creation form:</h4>
