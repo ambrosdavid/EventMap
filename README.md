@@ -71,11 +71,11 @@
     <p>The event fetching works via a MongoDB radius query, the query is made trough an appsync call to a lambda resolver, that connects to a MongoDB Serverless instance.<br> Before choosing MongoDB I have tried every other option that AWS would offer for geo data management. I first tried to use DDB but the only existing geo-data library is outdated, I have also tried using DocumentDB but that was very expensive, after doing many researches I ended up using MongoDB Serverless that offers a perfect solution since you can create Indexes on Lat-Long data, and query it using radius queries or squared queries.</p>
     <br>
     <h4> The event creation form:</h4>
-    <img src="imgs/example2.PNG" style= "width:100%" alt=""/>
+    <img src="imgs/eventcreation.png" style= "width:100%" alt=""/>
     <p>Tried to keep it as simple as possible, usually on other websites you would have to go trough a 7-steps form to create an event. The objective is that everyone must be able to create events with just a few clicks</p>
     <br>
     <h4> Once you click on an event you will see:</h4>
-    <img src="imgs/example3.PNG" style= "width:100%" alt=""/>
+    <img src="imgs/eventdetail.png" style= "width:100%" alt=""/>
     <br>
     <br>
     <p>There are mainly two scenarios<p>
