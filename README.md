@@ -54,6 +54,8 @@
 
 ## Demo
 
+<img src="imgs/demo screenshot big.png" style= "width:100%" alt=""/>
+
 <div id="Schema"></div>
 
 <div align="center">
